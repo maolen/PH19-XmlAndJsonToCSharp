@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromXmlAndJsonToCSharp", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Earthquake", "Earthquake\Earthquake.csproj", "{FB3E7499-DCE0-4591-A383-679AEEBC9705}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicSearchResult", "MusicSearchResult\MusicSearchResult.csproj", "{06410E17-F749-4EE5-B1D4-A8A71916AFE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FB3E7499-DCE0-4591-A383-679AEEBC9705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB3E7499-DCE0-4591-A383-679AEEBC9705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB3E7499-DCE0-4591-A383-679AEEBC9705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06410E17-F749-4EE5-B1D4-A8A71916AFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06410E17-F749-4EE5-B1D4-A8A71916AFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06410E17-F749-4EE5-B1D4-A8A71916AFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06410E17-F749-4EE5-B1D4-A8A71916AFE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
