@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromXmlAndJsonToCSharp", "FromXmlAndJsonToCSharp\FromXmlAndJsonToCSharp.csproj", "{B11CFE71-9699-45D6-863E-28FF3BAACA8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Earthquake", "Earthquake\Earthquake.csproj", "{FB3E7499-DCE0-4591-A383-679AEEBC9705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11CFE71-9699-45D6-863E-28FF3BAACA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11CFE71-9699-45D6-863E-28FF3BAACA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11CFE71-9699-45D6-863E-28FF3BAACA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11CFE71-9699-45D6-863E-28FF3BAACA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3E7499-DCE0-4591-A383-679AEEBC9705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3E7499-DCE0-4591-A383-679AEEBC9705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3E7499-DCE0-4591-A383-679AEEBC9705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3E7499-DCE0-4591-A383-679AEEBC9705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF1B1566-1F09-4EDF-9635-84B96838A91B}
+	EndGlobalSection
+EndGlobal
